@@ -4,7 +4,7 @@
 
 
 ## About
-Zortex is a classic-style top-down space shooter where you pilot a spaceship through an endless universe filled with asteroids and aggressive Devil aliens. Survive as long as possible by blasting through danger!
+Zortex v1.0 is a classic-style top-down space shooter where you pilot a spaceship through an endless universe filled with asteroids and aggressive Devil aliens. Survive as long as possible by blasting through danger!
 
 ### Features
 - Smooth ship movement with inertia
