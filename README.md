@@ -33,11 +33,11 @@ Zortex is a classic-style top-down space shooter where you pilot a spaceship thr
 
 ### How to Run
 - Download and run `Zortex.v1.0.exe` (no installation needed)
-- For developers: Run `zortex.py` with Python + Pygame installed
+- For developers: Run `Zortex.py` with Python + Pygame installed
 
 ---
 
 Made open source with ❤️  
-Created by Srikusan with assistance from Grok (xAI)
+Created by kxz0tn with assistance from Grok (xAI)
 
 Version 1.0 - Initial Release
