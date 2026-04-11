@@ -1,43 +1,21 @@
 # Zortex
 
-**Explore the unimaginable universe**
+**Latest Version:** v1.1 (11 April 2026)
 
-
-## About
-Zortex v1.0 is a classic-style top-down space shooter where you pilot a spaceship through an endless universe filled with asteroids and aggressive Devil aliens. Survive as long as possible by blasting through danger!
-
-### Features
-- Smooth ship movement with inertia
-- Asteroids and chasing Devil aliens
-- Particle explosion effects
-- Lives and scoring system
-- Rapid difficulty increase
-- Fullscreen gameplay
-
-### Controls
-- **W / Up Arrow** = Thrust forward  
-- **A / D or Left / Right Arrow** = Rotate ship  
-- **SPACE** = Shoot  
-- **ESC** = Quit game  
-- **R** = Restart after Game Over
+Classic arcade space shooter with modern upgrades.
 
 ### Download
-**Latest Version: v1.0**
+**[⬇️ Download Zortex v1.1 for Windows](https://github.com/kxz0tn/Zortex/releases/download/v1.1/Zortex.v1.1.exe)**
 
-→ Download the executable here:  
-[Download Zortex v1.0 (Windows)](https://github.com/kxz0tn/Zortex/releases/download/v1.0/Zortex.v1.0.exe)
+### Features
+- Realistic physics & inertia
+- Nuke Missile System (3 nukes per game)
+- Asteroids + chasing aliens
+- Smooth neon cyberpunk visuals
 
-### Files in Repository
-- `Zortex v1.0/Zortex v1.0.py` → Full Python source code
-- `Zortex v1.0/Zortex v1.0 – Game Manual & Description.pdf` → Game manual
-
-### How to Run
-- Download and run `Zortex.v1.0.exe` (no installation needed)
-- For developers: Run `Zortex v1.0.py` with Python + Pygame installed
+Made with ❤️ using Pygame  
+Developed by **kxz0tn** with help from **Grok (xAI)**
 
 ---
 
-Made open source with ❤️  
-Created by kxz0tn with assistance from Grok (xAI)
-
-Version 1.0 - Initial Release
+**Previous versions and source code** are available in the [Releases](https://github.com/kxz0tn/Zortex/releases) section.
